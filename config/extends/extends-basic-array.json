@@ -1,0 +1,9 @@
+{
+   "extends":
+   [
+      "../basic.json",
+      "./extends-basic.json"
+   ],
+
+   "extends-basic-array": true
+}

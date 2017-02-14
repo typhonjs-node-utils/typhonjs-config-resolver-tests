@@ -1,0 +1,9 @@
+{
+   "extends": "./extends-basic-circular-0.json",
+   "extends-basic-circular-1": true,
+
+   "plugins":
+   [
+      { "name": "plugin-basic-circular1" }
+   ]
+}

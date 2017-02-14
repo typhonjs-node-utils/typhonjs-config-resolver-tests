@@ -1,0 +1,11 @@
+{
+   "extends": "../level1/extends-subdir-circular-level-1.json",
+
+   "extends-subdir-level-2": true,
+
+   "plugins":
+   [
+      { "name": "plugin-subdir", "target": "level2-target" },
+      { "name": "plugin-level2" }
+   ]
+}

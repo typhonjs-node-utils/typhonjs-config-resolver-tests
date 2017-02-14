@@ -1,0 +1,12 @@
+{
+   "basic-extends": "basic-extends",
+
+   "extends": "./extends-basic-level-0.json",
+   "extends-basic": true,
+
+   "plugins":
+   [
+      { "name": "plugin-basic" },
+      { "name": "plugin-level0", "target": "basic-target" }
+   ]
+}

@@ -1,0 +1,9 @@
+{
+   "extends-subnpm-level-2": true,
+
+   "plugins":
+   [
+      { "name": "plugin-subnpm", "target": "level2-target" },
+      { "name": "plugin-level2" }
+   ]
+}

@@ -1,0 +1,11 @@
+{
+   "basic-circular": "basic-circular",
+
+   "extends": "./extends-basic-circular-1.json",
+   "extends-basic-circular-0": true,
+
+   "plugins":
+   [
+      { "name": "plugin-basic-circular0" }
+   ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "typhonjs-config-resolver-tests",
+  "version": "0.1.0",
+  "description": "Provides test data for typhonjs-config-resolver as an NPM module.",
+  "author": "typhonrt",
+  "homepage": "https://github.com/typhonjs-node-utils/typhonjs-config-resolver-tests",
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/typhonjs-node-utils/typhonjs-config-resolver-tests"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "typhonjs",
+    "object",
+    "util"
+  ],
+  "files": [
+    "dist",
+    "src",
+    "AUTHORS.md"
+  ],
+  "bugs": {
+    "url": "https://github.com/typhonjs-node-utils/typhonjs-config-resolver-tests/issues"
+  }
+}

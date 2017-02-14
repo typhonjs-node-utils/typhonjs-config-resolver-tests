@@ -1,0 +1,11 @@
+{
+   "extends": "typhonjs-config-resolver-tests/config/extends/level0/extends-subnpm-circular-level-0.json",
+
+   "extends-subnpm": true,
+
+   "plugins":
+   [
+      { "name": "plugin-subnpm" },
+      { "name": "plugin-subnpm2" }
+   ]
+}
