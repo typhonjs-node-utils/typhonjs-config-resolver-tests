@@ -19,8 +19,8 @@
     "util"
   ],
   "files": [
-    "dist",
-    "src",
+    "config",
+    "testdata.js",
     "AUTHORS.md"
   ],
   "bugs": {
